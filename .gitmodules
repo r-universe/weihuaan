@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "LARF"]
+	path = LARF
+	url = https://github.com/cran/LARF
 [submodule "fglsnet"]
 	path = fglsnet
 	url = https://github.com/cran/fglsnet
